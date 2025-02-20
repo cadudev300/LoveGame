@@ -1,0 +1,14 @@
+
+-- adicionar "gravidade" ao player --
+-- mudar o eixo y do player --
+-- adicionar colisao do player com o mapa ( tile ) --
+-- adicionar vida ao player
+
+
+-- criar classe do inimigo --
+-- adicionar inimigo --
+-- adicionar animacao do inimigo parado --
+-- adicionar movimento ao inimigo(ele deve andar de um lado para o outro)--
+-- adicionar animaçao do inimigo "correndo" --
+-- adicionar colisao dos tiros com inimigo
+
